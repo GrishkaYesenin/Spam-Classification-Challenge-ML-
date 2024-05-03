@@ -6,3 +6,6 @@ A test dataset with the same message texts, but without the flag, is also given.
 Dataset fields: \
 text_ure - target variable, SPAM/not SPAM flag \
 text - message text
+
+Results: \
+Best ROC-AUC score is 0.6874. Model Random Forest
