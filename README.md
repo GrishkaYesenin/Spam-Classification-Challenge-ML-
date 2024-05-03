@@ -8,4 +8,4 @@ text_ure - target variable, SPAM/not SPAM flag \
 text - message text
 
 Results: \
-Best ROC-AUC score is 0.6874. Model Random Forest
+Best ROC-AUC score is 0.6874. Model Decision Tree
